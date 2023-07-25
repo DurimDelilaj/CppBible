@@ -1,10 +1,19 @@
 <h1>Structure Of A C++ Program</h1>
 <hr />
-<p>
-Every <strong>C++</strong> program is made up of different components :<br />
-<code>#include <iostream>
-int main () 
+
+<p>The <strong>Hello World!</strong> program: </p>
+
+```C++
+#include <iostream>  // 1)
+
+using namespace std; // 2)
+
+int main() // 3)
 {
-    std::cout << "Hello World!";
-}</code>
-</P>
+  cout << "Hello World" << endl; // 4)
+
+  return  0; // 5)
+
+}
+```
+
