@@ -54,10 +54,11 @@ int main() // (2)
 <br />
 
 <hr />
-<h6>
-  Written by Durim Delilaj 26/07/2023<br />
-  Contributions are accepted!
-</h6>
-
+<footer>
+  <p>
+    © Durim Delilaj. All rights reserved @2023<br />
+    Contributions are accepted!
+  </p>
+</footer>
 
 
